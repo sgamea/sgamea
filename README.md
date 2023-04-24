@@ -9,9 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/sgamea/Configuring-on-premises-AD-within-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/sgamea/NSGs-and-Inspecting-Network-Protocols)
-
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/sgamea/create-azure-vm)
-
 - <b>Virtual Private Networks (VPNs)</b>
   - [Observing the Effect of a VPN on IP Addressing](https://github.com/sgamea/vpn-usage)
 
